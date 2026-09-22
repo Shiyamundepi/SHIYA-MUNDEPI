@@ -48,7 +48,7 @@ Through these experiences, I gained exposure to full-stack development, database
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/shiya-mundepi-a15627366/]
 * 💻 **GitHub:** [https://github.com/Shiyamundepi]
-* 🌐 Portfolio**  [Visit my Portfolio]() 
+* 🌐 Portfolio** [https://shiyamundepi.github.io/Shiyamundepi/] 
 * 📧 **Email:** [shiyamundepi54@gmail.com](mailto:shiyamundepi54@gmail.com)
 
 ---
